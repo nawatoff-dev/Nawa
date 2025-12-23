@@ -1,0 +1,8 @@
+{
+  "name": "EdgeLog",
+  "description": "A comprehensive trading journal and analysis suite for professional forex traders featuring market session tracking, AI coaching, and deep performance insights.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
